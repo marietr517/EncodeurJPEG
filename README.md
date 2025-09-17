@@ -46,7 +46,7 @@ Cela génère un exécutable nommé `ppm2jpeg` à la racine du projet.
 ./ppm2jpeg image.ppm
 ```
 
-Cela génère un fichier `image.jpeg` compressé (ou un équivalent selon votre implémentation).
+Cela génère un fichier `image.jpeg` compressé.
 
 ---
 
